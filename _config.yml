@@ -4,12 +4,9 @@
 
 url: http://www.alientronics.com.br/
 title: Alientronics
-email: felipe@alientronics.com.br
+email: henrique.dias@alientronics.com.br
 author: Henrique Dias
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
+description: > # "A Alientronics &eacute; um empresa de Porto Alegre - RS com foco em desenvolver solu&ccedil;&otilde;es para Internet das Coisas, visando monitorar e gerenciar melhor qualquer dispositivo que seja poss&iacute;vel conectar &agrave; internet.
 copyright: 'Copyright &copy; 2016 Alientronics. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 

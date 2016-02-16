@@ -5,4 +5,4 @@ category: Services
 title: Painel de Controle<br>Gerenciamento em tempo real
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+  Pelo Painel de Controle do Gerente de Frotas pode ter uma vis&atilde;o global da sa&uacute;de de todos os ve&iacute;culos, podendo gerar relat&oacute;rios anal&iacute;ticos sobre o custo operacional da empresa e dos ve&iacute;culos.

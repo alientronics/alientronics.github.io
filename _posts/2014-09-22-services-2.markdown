@@ -5,6 +5,4 @@ category: Services
 title: App Android<br>Alertas em tempo real
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  O aplicativo Android armazena os dados recebidos por todos os sensores do ve&iacute;culo e, havendo conex&atilde;o com a internet, transmite os dados para o Painel de Controle. Qualquer evento gera um alerta instant&acirc;neo no aplicativo avisando o motorista de: pneu murcho, superaquecido ou estourado.
