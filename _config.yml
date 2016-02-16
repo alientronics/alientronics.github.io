@@ -26,5 +26,6 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: envelope
+  - title: email
+    icon: envelope
     url: mailto:felipe@alientronics.com.br
