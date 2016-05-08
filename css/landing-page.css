@@ -10,6 +10,14 @@ html {
     height: 100%;
 }
 
+a {
+    color: #009a4d;
+}
+a:hover,
+a:focus {
+    color: #005028;
+}
+
 body,
 h1,
 h2,
@@ -21,6 +29,20 @@ h6 {
     font-weight: 700;
 }
 
+.navbar-brand {
+    display: block;
+    width: 160px;
+    height: 50px;
+    background: url(../img/logo-small.png) no-repeat left center;
+    background-size: contain;
+    margin: 0;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+.navbar-nav {
+    margin: 0 -15px;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
@@ -28,10 +50,9 @@ h6 {
 
 .intro-header {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-    padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/iot-fade.jpg) no-repeat center center;
+    background: url(../img/bg-cover.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -43,8 +64,11 @@ h6 {
 
 .intro-message > h1 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 5em;
+    background: url(../img/title-01.png) no-repeat center center;
+    background-size: contain;
+    text-indent: -9999px;
+    overflow: hidden;
 }
 
 .intro-divider {
@@ -54,31 +78,20 @@ h6 {
 }
 
 .intro-message > h3 {
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    margin: 0.8em 0 1.6em 0;
+    font-size: 1.75em;
+    background: url(../img/title-02.png) no-repeat center center;
+    background-size: contain;
+    text-indent: -9999px;
+    overflow: hidden;
 }
 
-@media(max-width:767px) {
-    .intro-message {
-        padding-bottom: 15%;
-    }
-
-    .intro-message > h1 {
-        font-size: 3em;
-    }
-
-    ul.intro-social-buttons > li {
-        display: block;
-        margin-bottom: 20px;
-        padding: 0;
-    }
-
-    ul.intro-social-buttons > li:last-child {
-        margin-bottom: 0;
-    }
-
-    .intro-divider {
-        width: 100%;
-    }
+#about {
+    padding:60px 80px;
+}
+#about h2 {
+    margin-top:0;
+    margin-bottom:20px;
 }
 
 .network-name {
@@ -95,8 +108,6 @@ h6 {
 
 .content-section-b {
     padding: 50px 0;
-    border-top: 1px solid #e7e7e7;
-    border-bottom: 1px solid #e7e7e7;
 }
 
 .section-heading {
@@ -112,14 +123,15 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: #009a4d;
     background-size: cover;
 }
 
 .banner h2 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-    font-size: 3em;
+    font-size: 2em;
+    padding-top: .3em;
+    text-transform: uppercase;
 }
 
 .banner ul {
@@ -131,7 +143,32 @@ h6 {
     margin-top: 0;
 }
 
+footer {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+p.copyright {
+    margin: 15px 0 0;
+}
+
+.btn-default {
+    border-radius: 3px;
+    border-color: #009a4d;
+}
+.btn-default:hover {
+    color: #fff;
+    border-color: #fff;
+    background-color: #009a4d;
+}
+.btn-lg {
+    background: #fff;
+    color: #009a4d;
+}
+
 @media(max-width:1199px) {
+
     ul.banner-social-buttons {
         float: left;
         margin-top: 15px;
@@ -139,10 +176,61 @@ h6 {
 }
 
 @media(max-width:767px) {
+
+    .navbar-brand {
+        margin-left:15px;
+    }
+
+    .screen-home {
+        width: 100%;
+        display: table;
+        height: calc(100vh - 50px);
+    }
+    .screen-home .intro-message {
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    .intro-message {
+        padding-bottom: 15%;
+    }
+
+    .intro-message > h1 {
+        font-size: 2.5em;
+    }
+
+    ul.intro-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.intro-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+
+    .intro-divider {
+        width: 100%;
+    }
+
+    #about {
+        padding:30px;
+    }
+
+    .content-section-a,
+    .content-section-b {
+        padding:15px;
+    }
+
+    .banner {
+        text-align:center;
+    }
     .banner h2 {
         margin: 0;
-        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-        font-size: 3em;
+        font-size: 1.75em;
+    }
+    ul.banner-social-buttons {
+        float:none;
     }
 
     ul.banner-social-buttons > li {
@@ -154,13 +242,4 @@ h6 {
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
     }
-}
-
-footer {
-    padding: 50px 0;
-    background-color: #f8f8f8;
-}
-
-p.copyright {
-    margin: 15px 0 0;
 }
