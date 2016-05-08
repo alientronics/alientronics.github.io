@@ -1,7 +1,7 @@
 ---
 layout: default
 img: dashboard.png
-category: Services
+categories: pt
 title: Painel de Controle<br>Gerenciamento em tempo real
 description: |
 ---

@@ -1,0 +1,10 @@
+---
+layout: default
+img: sensor.png
+categories: en
+title: TPMS Sensor:<br>Temperature and Pressure
+description: |
+---
+  We developed a hardware that sticks the inside of the tire can precisely monitor the pressure and temperature. 
+  The sensor is completely sealed without suffering damage from liquids, dust or vibration, and the duration of 8 years. 
+  The data are sent to the Android App by Bluetooh every 5 minutes, with real control of the vehicle.

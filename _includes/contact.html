@@ -4,7 +4,13 @@
 
 			<div class="row">
 				<div class="col-lg-6">
-					<h2>Entre em contato</h2>
+					{% if page.language == "pt" %}
+					    <h2>Entre em contato</h2>
+					{% endif %}
+
+					{% if page.language == "en" %}
+					    <h2>Keep in touch</h2>
+					{% endif %}
 				</div>
 				<div class="col-lg-6">
 					<ul class="list-inline banner-social-buttons">

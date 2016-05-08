@@ -1,7 +1,7 @@
 ---
 layout: default
 img: sensor.png
-category: Services
+categories: pt
 title: Sensor TPMS:<br>Temperatura e Press&atilde;o
 description: |
 ---

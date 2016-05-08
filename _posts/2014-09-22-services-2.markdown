@@ -1,7 +1,7 @@
 ---
 layout: default
 img: app.png
-category: Services
+categories: pt
 title: App Android<br>Alertas em tempo real
 description: |
 ---

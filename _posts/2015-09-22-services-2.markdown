@@ -1,0 +1,8 @@
+---
+layout: default
+img: app.png
+categories: en
+title: Android App<br>Real-time alerts
+description: |
+---
+  The Android application stores the received data for all vehicle sensors and, with internet connection, transmits the data to the Control Panel. Any event generates an instant alert in the application warning the driver: flat tire, overheated or broken out.
