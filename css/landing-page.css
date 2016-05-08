@@ -52,8 +52,7 @@ h6 {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/bg-cover.jpg) no-repeat center center;
-    background-size: cover;
+    background: #009a4d url(../img/bg-cover.jpg) no-repeat fixed center center / cover;
 }
 
 .intro-message {
@@ -123,8 +122,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: #009a4d;
-    background-size: cover;
+    background: #009a4d url(../img/bg-cover.jpg) no-repeat fixed center center / cover;
 }
 
 .banner h2 {
