@@ -5,4 +5,4 @@ categories: pt
 title: Painel de Controle<br>Gerenciamento em tempo real
 description: |
 ---
-  Pelo Painel de Controle do Gerente de Frotas pode ter uma vis&atilde;o global da sa&uacute;de de todos os ve&iacute;culos, podendo gerar relat&oacute;rios anal&iacute;ticos sobre o custo operacional da empresa e dos ve&iacute;culos.
+  Pelo Painel de Controle do Gerente de Frotas pode-se ter uma vis&atilde;o global da sa&uacute;de de todos os ve&iacute;culos, podendo gerar relat&oacute;rios anal&iacute;ticos sobre o custo operacional da empresa e dos ve&iacute;culos.
