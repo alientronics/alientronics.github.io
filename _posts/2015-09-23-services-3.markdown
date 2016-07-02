@@ -5,4 +5,5 @@ categories: en
 title: Dashboard<br>Real-time Management
 description: |
 ---
-  The Dashboard of the Fleet Manager can have a global view of the health of all vehicles, which can generate analytical reports on the operating cost of the company and vehicles.
+  The Dashboard of the Fleet Manager can have a global view of the health of all vehicles, which can generate analytical reports on the operating cost of the company and vehicles.<br>
+  <a href="http://www.fleetany.com">www.fleetany.com</a>
