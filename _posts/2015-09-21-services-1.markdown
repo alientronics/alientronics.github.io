@@ -5,4 +5,4 @@ categories: en
 title: TPMS Sensor:<br>Temperature and Pressure
 description: |
 ---
-  We developed a hardware that is secured on the inside of the tire which can precisely monitor its pressure and temperature. The sensor is completely sealed inside, safe from the damage of liquids, dust or vibrations. This protected environment allows the TPMS to function perfectly for three years. The data retrieved from the Sensor are sent to the Android App via Bluetooh every five minutes or immediately in the case of an emergency. This instant results give the driver real-time control of the vehicle.
+<p align="justify"> We developed a hardware that is secured on the inside of the tire which can precisely monitor its pressure and temperature. The sensor is completely sealed inside, safe from the damage of liquids, dust or vibrations. This protected environment allows the TPMS to function perfectly for three years. The data retrieved from the Sensor are sent to the Android App via Bluetooh every five minutes or immediately in the case of an emergency. This instant results give the driver real-time control of the vehicle.</p>
