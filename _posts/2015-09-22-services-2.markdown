@@ -5,8 +5,8 @@ categories: en
 title: Android App<br>Real-time alerts
 description: |
 ---
-<p align="left">
-  The Android application stores the received data from all vehicle sensors and, with an internet connection, transmits the data to the Control Panel. Instant alerts are sent to the driver in the case of an emergency: a flat, overheated, or ripped tire. <br></p>
+<p align="justify">
+  The Android application stores the received data from all vehicle sensors and, with an internet connection, transmits the data to the Control Panel. Instant alerts are sent to the driver in the case of an emergency: a flat, overheated, or ripped tire.</p> <br>
 	<a href="https://play.google.com/apps/testing/com.alientronics.fleetany" target="_blank" id="app-link">
 		<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" 
 			title="get in google play" 
