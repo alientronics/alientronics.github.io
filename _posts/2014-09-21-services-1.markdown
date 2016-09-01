@@ -5,6 +5,4 @@ categories: pt
 title: Sensor TPMS:<br>Temperatura e Press&atilde;o
 description: |
 ---
-  Desenvolvemos um hardware que se cola na parte interna do pneu podendo monitorar precisamente a press&atilde;o e temperatura. 
-  O sensor &eacute; totalmente selado, sem sofrer danos com l&iacute;quidos, poeira ou vibra&ccedil;&atilde;o, tendo a dura&ccedil;&atilde;o de 3 anos. 
-  Os dados s&atilde;o enviados para o App Android por Bluetooh a cada 5 minutos, ou em eventos de perigo, tendo um controle real do veículo.
+<p align="justify"> Desenvolvemos um hardware que se cola na parte interna do pneu podendo monitorar precisamente a press&atilde;o e temperatura. O sensor &eacute; totalmente selado, sem sofrer danos com l&iacute;quidos, poeira ou vibra&ccedil;&atilde;o, tendo a dura&ccedil;&atilde;o de três anos. Os dados s&atilde;o enviados para o App Android por Bluetooh a cada cinco minutos, ou em eventos de perigo, tendo um controle real do veículo.</p>
