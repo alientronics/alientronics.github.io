@@ -5,7 +5,8 @@ categories: pt
 title: App Android<br>Alertas em tempo real
 description: |
 ---
-  O aplicativo Android armazena os dados recebidos por todos os sensores do ve&iacute;culo e, havendo conex&atilde;o com a internet, transmite os dados para o Painel de Controle. Qualquer evento gera um alerta instant&acirc;neo no aplicativo avisando o motorista de: pneu murcho, superaquecido ou estourado. <br>
+ <p align="justify"> O aplicativo Android armazena os dados recebidos por todos os sensores do ve&iacute;culo e, havendo conex&atilde;o com a internet, transmite os dados para o Painel de Controle. Qualquer evento gera um alerta instant&acirc;neo no aplicativo avisando o motorista de: pneu murcho, superaquecido ou estourado.</p> 
+ <br>
 	<a href="https://play.google.com/apps/testing/com.alientronics.fleetany" target="_blank" id="app-link">
 		<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" 
 			title="get in google play" 
